@@ -4,7 +4,7 @@
   "description": "Node SDK for Zoho CRM",
   "main": "lib/js/ZCRMRestClient",
   "dependencies": {
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "mysql": "^2.18.1",
     "properties-reader": "0.0.16",
     "querystring": "^0.2.0",
